@@ -1,4 +1,4 @@
 # projeto redes sociais
  Projeto de Redes Sociais
 
-Acesse: <a href="https://orodolfoso.github.io/projeto-redes-sociais/">Acesse</a>
+<a href="https://orodolfoso.github.io/projeto-redes-sociais/">Acessar</a>
